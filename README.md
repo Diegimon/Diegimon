@@ -1,6 +1,6 @@
 ## Hi, I'm Diego, student, programmer and IT enthusiast!
 
-
+![Diegimon GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegimon&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,3 +20,4 @@
  <a href="https://api.whatsapp.com/send?phone=996528343" target="_blank"><img src="https://user-images.githubusercontent.com/101910221/233175950-0606c093-8a91-4be0-87ce-ab21583b6db7.png" height="30" width="30"></a> 
   
 </div>
+
