@@ -16,6 +16,7 @@
 <div> 
   <a href="https://www.instagram.com/ds_aguiar62/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:diegogodzila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-4587501" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="linkedin.com/in/diego-silva-39bb8a228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?phone=996528343" target="_blank"><img src="https://user-images.githubusercontent.com/101910221/233175950-0606c093-8a91-4be0-87ce-ab21583b6db7.png" height="30" width="30"></a> 
   
 </div>
