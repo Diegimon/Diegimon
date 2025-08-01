@@ -1,28 +1,19 @@
-## Hi, I'm Diego, student, programmer and IT enthusiast!
+<h1 align="center">Hi 👋, I'm Diego, student, Implementation Analyst and programmer</h1>
+<h3 align="center">A passionate Web developer from Brazil</h3>
 
-![Diegimon GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegimon&show_icons=true&theme=tokyonight)
+- 🔭 I’m currently working on **Implementation Analyst**
 
----
+- 🌱 I’m currently learning **ASP.NET / C#**
 
-### 🛠️ Technologies I use:
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" width="40" />
-  <img src="https://user-images.githubusercontent.com/101910221/233097803-b24d2e0b-c549-49a4-8862-ae6a85180f6b.png" height="30" width="40" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/101910221/233166648-6ccb37e2-92b0-4fbd-80e7-57596b4f91e7.png" height="150" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegimon&show_icons=true&locale=en&layout=compact" alt="diegimon" /></p>
 
-### 📫 Connect with me:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegimon&show_icons=true&locale=en" alt="diegimon" /></p>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ds_aguiar62/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegogodzila@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-silva-39bb8a228)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5561996528343)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegimon&" alt="diegimon" /></p>
