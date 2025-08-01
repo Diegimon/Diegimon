@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegimon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs"/>
@@ -62,7 +62,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegimon&theme=tokyonight" alt="diegimon" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegimon&" alt="diegimon" />
 </p>
 
 
